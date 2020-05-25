@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "707910411620",
+    "firebase_url": "https://dj01proyectoninja.firebaseio.com",
+    "project_id": "dj01proyectoninja",
+    "storage_bucket": "dj01proyectoninja.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707910411620:android:ab1fc7bbf4bae9e22e0671",
+        "android_client_info": {
+          "package_name": "com.Nilton.DJ01Ninja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707910411620-q1shtq5n31vfm1j7b762hr1p2vm14gnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGzYAlHmCkImwkKkJVmzmYQAy-1Gb_zlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707910411620-q1shtq5n31vfm1j7b762hr1p2vm14gnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
